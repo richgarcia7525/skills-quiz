@@ -25,3 +25,5 @@ THEN I can save my initials and score
 
 Intial HTML before any CSS or JavaScript are added to it.
 ![Screenshot (83)](https://user-images.githubusercontent.com/12145520/151908470-23364809-3311-4058-9a61-744f5b55e360.png)
+screen shot of the intial javascript code and the css all working together
+![Screenshot (97)](https://user-images.githubusercontent.com/12145520/152141810-0dcf0833-1d2f-440e-a00c-8d978250094a.png)
