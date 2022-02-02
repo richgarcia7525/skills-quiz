@@ -21,3 +21,7 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+
+
+Intial HTML before any CSS or JavaScript are added to it.
+![Screenshot (83)](https://user-images.githubusercontent.com/12145520/151908470-23364809-3311-4058-9a61-744f5b55e360.png)
